@@ -1,6 +1,6 @@
 <template>
   
-  <section class="section" style="background-image: url('../assets/img/background.svg');">
+  <section class="section">
     <article class="article">
       <h1 class="title">BIENTÔT DISPONIBLE </h1>
 
@@ -31,9 +31,9 @@ export default {
 .section {
   width: 100%;
   height: 75%;
-  background-position: center;
+  /* background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
   display: flex;
   align-items: center;
   justify-content: center;

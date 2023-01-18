@@ -19,4 +19,8 @@ export default {
   padding: 0;
   overflow: hidden;
 }
+/* #app {
+  width: 100vw;
+  background-color: transparent;
+} */
 </style>
