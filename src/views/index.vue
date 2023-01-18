@@ -86,13 +86,13 @@ export default {
   height: 50%;
   border-radius: 124px;
   font-size: 1.3vw;
-  background-color: #000;
+  background-color: rgb(100, 182, 135);
   color: #FFF;
   transition: all 1s;
 }
 .btn:hover {
   transform: scale(1.02);
   background-color: #FFF;
-  color: #000;
+  color: rgb(100, 182, 135);
 }
 </style>

@@ -32,7 +32,7 @@ export default {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: #397FAF;
+  background-color: rgb(57,72,92);
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
