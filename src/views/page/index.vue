@@ -28,6 +28,7 @@ export default {
 
 nav {
   width: 90%;
+  max-width: 500px;
   flex-grow: 1;
   display: flex;
   flex-direction: column;

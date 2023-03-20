@@ -23,7 +23,6 @@ export default {
 .layout { 
   width: 100vw;
   height: 100vh;
-  max-width: 500px;
   margin: auto;
   background: linear-gradient(to right, rgba(162, 0, 255, 0.705) , rgba(255, 0, 0, 0.705)) , url("../assets/img/IMG_20220102_120225_359.jpg");
   background-repeat: no-repeat;
